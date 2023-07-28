@@ -1,0 +1,1848 @@
+"movie_id";"title";"start_year";"run_time_minutes";"is_adult"
+12349;"The Kid";1921;68;0
+13442;"Nosferatu";1922;94;0
+15864;"The Gold Rush";1925;95;0
+17136;"Metropolis";1927;153;0
+21749;"City Lights";1931;87;0
+22100;"M";1931;117;0
+25316;"It Happened One Night";1934;105;0
+27977;"Modern Times";1936;87;0
+29583;"Snow White and the Seven Dwarfs";1937;83;0
+31381;"Gone with the Wind";1939;238;0
+31679;"Mr. Smith Goes to Washington";1939;129;0
+32138;"The Wizard of Oz";1939;102;0
+32553;"The Great Dictator";1940;125;0
+32910;"Pinocchio";1940;88;0
+32976;"Rebecca";1940;130;0
+33467;"Citizen Kane";1941;119;0
+33563;"Dumbo";1941;64;0
+33870;"The Maltese Falcon";1941;100;0
+34492;"Bambi";1942;69;0
+34583;"Casablanca";1942;102;0
+36775;"Double Indemnity";1944;107;0
+38650;"It's a Wonderful Life";1946;130;0
+38787;"Notorious";1946;102;0
+40522;"Bicycle Thieves";1948;89;0
+40746;"Rope";1948;80;0
+40897;"The Treasure of the Sierra Madre";1948;126;0
+41959;"The Third Man";1949;104;0
+42192;"All About Eve";1950;138;0
+42332;"Cinderella";1950;74;0
+42876;"Rashomon";1950;88;0
+43014;"Sunset Blvd.";1950;110;0
+43274;"Alice in Wonderland";1951;75;0
+44079;"Strangers on a Train";1951;101;0
+44081;"A Streetcar Named Desire";1951;122;0
+44706;"High Noon";1952;85;0
+45152;"Singin' in the Rain";1952;103;0
+46183;"Peter Pan";1953;77;0
+46250;"Roman Holiday";1953;118;0
+46912;"Dial M for Murder";1954;105;0
+47296;"On the Waterfront";1954;108;0
+47396;"Rear Window";1954;112;0
+47478;"Seven Samurai";1954;207;0
+48280;"Lady and the Tramp";1955;76;0
+50083;"12 Angry Men";1957;96;0
+50212;"The Bridge on the River Kwai";1957;161;0
+50825;"Paths of Glory";1957;88;0
+50976;"The Seventh Seal";1957;96;0
+50986;"Wild Strawberries";1957;91;0
+51201;"Witness for the Prosecution";1957;116;0
+52311;"Touch of Evil";1958;95;0
+52357;"Vertigo";1958;128;0
+52618;"Ben-Hur";1959;212;0
+53125;"North by Northwest";1959;136;0
+53198;"The 400 Blows";1959;99;0
+53285;"Sleeping Beauty";1959;75;0
+53291;"Some Like It Hot";1959;121;0
+53604;"The Apartment";1960;125;0
+54215;"Psycho";1960;109;0
+54331;"Spartacus";1960;197;0
+54698;"Breakfast at Tiffany's";1961;115;0
+55254;"One Hundred and One Dalmatians";1961;79;0
+55614;"West Side Story";1961;153;0
+55630;"Yojimbo";1961;110;0
+55928;"Dr. No";1962;110;0
+56172;"Lawrence of Arabia";1962;218;0
+56193;"Lolita";1962;153;0
+56592;"To Kill a Mockingbird";1962;129;0
+56801;"8½";1963;138;0
+56869;"The Birds";1963;119;0
+57012;"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb";1964;95;0
+57076;"From Russia with Love";1963;115;0
+57115;"The Great Escape";1963;172;0
+57546;"The Sword in the Stone";1963;79;0
+58150;"Goldfinger";1964;110;0
+58331;"Mary Poppins";1964;139;0
+58461;"A Fistful of Dollars";1964;99;0
+59578;"For a Few Dollars More";1965;132;0
+59742;"The Sound of Music";1965;172;0
+59800;"Thunderball";1965;130;0
+60196;"The Good, the Bad and the Ugly";1966;161;0
+60827;"Persona";1966;85;0
+61418;"Bonnie and Clyde";1967;111;0
+61512;"Cool Hand Luke";1967;127;0
+61722;"The Graduate";1967;106;0
+61852;"The Jungle Book";1967;78;0
+62512;"You Only Live Twice";1967;117;0
+62622;"2001: A Space Odyssey";1968;149;0
+63350;"Night of the Living Dead";1968;96;0
+63442;"Planet of the Apes";1968;112;0
+63522;"Rosemary's Baby";1968;137;0
+64115;"Butch Cassidy and the Sundance Kid";1969;110;0
+64116;"Once Upon a Time in the West";1968;165;0
+64276;"Easy Rider";1969;95;0
+64665;"Midnight Cowboy";1969;113;0
+65421;"The Aristocats";1970;78;0
+66206;"Patton";1970;172;0
+66921;"A Clockwork Orange";1971;136;0
+66995;"Diamonds Are Forever";1971;120;0
+66999;"Dirty Harry";1971;102;0
+67116;"The French Connection";1971;104;0
+67992;"Willy Wonka & the Chocolate Factory";1971;100;0
+68473;"Deliverance";1972;109;0
+68646;"The Godfather";1972;175;0
+70034;"Enter the Dragon";1973;102;0
+70047;"The Exorcist";1973;122;0
+70328;"Live and Let Die";1973;121;0
+70379;"Mean Streets";1973;112;0
+70511;"Papillon";1973;151;0
+70608;"Robin Hood";1973;83;0
+70666;"Serpico";1973;130;0
+70735;"The Sting";1973;129;0
+71230;"Blazing Saddles";1974;93;0
+71315;"Chinatown";1974;130;0
+71360;"The Conversation";1974;113;0
+71562;"The Godfather Part II";1974;202;0
+71807;"The Man with the Golden Gun";1974;125;0
+71853;"Monty Python and the Holy Grail";1975;91;0
+72271;"The Texas Chain Saw Massacre";1974;83;0
+72431;"Young Frankenstein";1974;106;0
+72684;"Barry Lyndon";1975;185;0
+72890;"Dog Day Afternoon";1975;125;0
+73195;"Jaws";1975;124;0
+73486;"One Flew Over the Cuckoo's Nest";1975;133;0
+73629;"The Rocky Horror Picture Show";1975;100;0
+74119;"All the President's Men";1976;138;0
+74285;"Carrie";1976;98;0
+74486;"Eraserhead";1977;89;0
+74958;"Network";1976;121;0
+75005;"The Omen";1976;111;0
+75148;"Rocky";1976;120;0
+75314;"Taxi Driver";1976;114;0
+75686;"Annie Hall";1977;93;0
+75860;"Close Encounters of the Third Kind";1977;138;0
+76752;"The Spy Who Loved Me";1977;125;0
+76759;"Star Wars: Episode IV - A New Hope";1977;121;0
+77402;"Dawn of the Dead";1978;127;0
+77416;"The Deer Hunter";1978;183;0
+77631;"Grease";1978;110;0
+77651;"Halloween";1978;91;0
+77975;"National Lampoon's Animal House";1978;109;0
+78346;"Superman";1978;143;0
+78748;"Alien";1979;117;0
+78788;"Apocalypse Now";1979;147;0
+79116;"Escape from Alcatraz";1979;112;0
+79417;"Kramer vs. Kramer";1979;105;0
+79470;"Life of Brian";1979;94;0
+79501;"Mad Max";1979;88;0
+79522;"Manhattan";1979;96;0
+79574;"Moonraker";1979;126;0
+79817;"Rocky II";1979;119;0
+79944;"Stalker";1979;162;0
+80120;"The Warriors";1979;93;0
+80339;"Airplane!";1980;88;0
+80455;"The Blues Brothers";1980;133;0
+80487;"Caddyshack";1980;98;0
+80678;"The Elephant Man";1980;124;0
+80684;"Star Wars: Episode V - The Empire Strikes Back";1980;124;0
+80761;"Friday the 13th";1980;95;0
+81398;"Raging Bull";1980;129;0
+81505;"The Shining";1980;146;0
+81573;"Superman II";1980;127;0
+82010;"An American Werewolf in London";1981;97;0
+82096;"Das Boot";1981;149;0
+82198;"Conan the Barbarian";1982;129;0
+82340;"Escape from New York";1981;99;0
+82398;"For Your Eyes Only";1981;127;0
+82694;"The Road Warrior";1981;96;0
+82971;"Indiana Jones and the Raiders of the Lost Ark";1981;115;0
+83658;"Blade Runner";1982;117;0
+83866;"E.T. the Extra-Terrestrial";1982;115;0
+83907;"The Evil Dead";1981;85;0
+83929;"Fast Times at Ridgemont High";1982;90;0
+83944;"First Blood";1982;93;0
+83987;"Gandhi";1982;191;0
+84516;"Poltergeist";1982;114;0
+84602;"Rocky III";1982;99;0
+84726;"Star Trek II: The Wrath of Khan";1982;113;0
+84787;"The Thing";1982;109;0
+84805;"Tootsie";1982;116;0
+84827;"Tron";1982;96;0
+85334;"A Christmas Story";1983;93;0
+85794;"The King of Comedy";1982;109;0
+85959;"The Meaning of Life";1983;107;0
+85995;"National Lampoon's Vacation";1983;98;0
+86034;"Octopussy";1983;131;0
+86190;"Star Wars: Episode VI - Return of the Jedi";1983;131;0
+86250;"Scarface";1983;170;0
+86465;"Trading Places";1983;116;0
+86567;"WarGames";1983;114;0
+86879;"Amadeus";1984;160;0
+86960;"Beverly Hills Cop";1984;105;0
+87182;"Dune";1984;137;0
+87332;"Ghostbusters";1984;105;0
+87363;"Gremlins";1984;106;0
+87469;"Indiana Jones and the Temple of Doom";1984;118;0
+87538;"The Karate Kid";1984;126;0
+87544;"Nausicaä of the Valley of the Wind";1984;117;0
+87800;"A Nightmare on Elm Street";1984;91;0
+87843;"Once Upon a Time in America";1984;229;0
+87884;"Paris, Texas";1984;145;0
+87928;"Police Academy";1984;96;0
+88128;"Sixteen Candles";1984;93;0
+88247;"The Terminator";1984;107;0
+88258;"This Is Spinal Tap";1984;82;0
+88323;"The NeverEnding Story";1984;102;0
+88763;"Back to the Future";1985;116;0
+88846;"Brazil";1985;132;0
+88847;"The Breakfast Club";1985;97;0
+88930;"Clue";1985;94;0
+88944;"Commando";1985;90;0
+89218;"The Goonies";1985;114;0
+89530;"Mad Max Beyond Thunderdome";1985;107;0
+89880;"Rambo: First Blood Part II";1985;96;0
+89881;"Ran";1985;162;0
+89927;"Rocky IV";1985;91;0
+90264;"A View to a Kill";1985;131;0
+90555;"Crocodile Dundee";1986;97;0
+90605;"Aliens";1986;137;0
+90728;"Big Trouble in Little China";1986;99;0
+90756;"Blue Velvet";1986;120;0
+91042;"Ferris Bueller's Day Off";1986;103;0
+91064;"The Fly";1986;96;0
+91203;"Highlander";1986;116;0
+91369;"Labyrinth";1986;101;0
+91605;"The Name of the Rose";1986;130;0
+91763;"Platoon";1986;120;0
+92005;"Stand by Me";1986;89;0
+92067;"Castle in the Sky";1986;125;0
+92099;"Top Gun";1986;109;0
+92644;"Beverly Hills Cop II";1987;100;0
+92890;"Dirty Dancing";1987;100;0
+92965;"Empire of the Sun";1987;153;0
+92991;"Evil Dead II";1987;84;0
+93058;"Full Metal Jacket";1987;116;0
+93105;"Good Morning, Vietnam";1987;121;0
+93177;"Hellraiser";1987;94;0
+93389;"The Last Emperor";1987;163;0
+93409;"Lethal Weapon";1987;109;0
+93428;"The Living Daylights";1987;130;0
+93437;"The Lost Boys";1987;97;0
+93748;"Planes, Trains & Automobiles";1987;93;0
+93773;"Predator";1987;107;0
+93779;"The Princess Bride";1987;98;0
+93822;"Raising Arizona";1987;94;0
+93870;"RoboCop";1987;102;0
+93894;"The Running Man";1987;101;0
+94012;"Spaceballs";1987;96;0
+94226;"The Untouchables";1987;119;0
+94291;"Wall Street";1987;126;0
+94625;"Akira";1988;124;0
+94721;"Beetlejuice";1988;92;0
+94737;"Big";1988;104;0
+94862;"Child's Play";1988;87;0
+94898;"Coming to America";1988;117;0
+95016;"Die Hard";1988;132;0
+95159;"A Fish Called Wanda";1988;108;0
+95327;"Grave of the Fireflies";1988;89;0
+95647;"Mississippi Burning";1988;128;0
+95705;"The Naked Gun: From the Files of Police Squad!";1988;85;0
+95765;"Cinema Paradiso";1988;155;0
+95953;"Rain Man";1988;133;0
+95956;"Rambo III";1988;102;0
+96061;"Scrooged";1988;101;0
+96256;"They Live";1988;94;0
+96283;"My Neighbor Totoro";1988;86;0
+96320;"Twins";1988;107;0
+96438;"Who Framed Roger Rabbit";1988;104;0
+96446;"Willow";1988;126;0
+96754;"The Abyss";1989;140;0
+96874;"Back to the Future Part II";1989;108;0
+96895;"Batman";1989;126;0
+96928;"Bill & Ted's Excellent Adventure";1989;90;0
+96969;"Born on the Fourth of July";1989;145;0
+97165;"Dead Poets Society";1989;128;0
+97216;"Do the Right Thing";1989;120;0
+97239;"Driving Miss Daisy";1989;99;0
+97351;"Field of Dreams";1989;107;0
+97428;"Ghostbusters II";1989;108;0
+97441;"Glory";1989;122;0
+97493;"Heathers";1988;103;0
+97523;"Honey, I Shrunk the Kids";1989;93;0
+97576;"Indiana Jones and the Last Crusade";1989;127;0
+97733;"Lethal Weapon 2";1989;114;0
+97742;"Licence to Kill";1989;133;0
+97757;"The Little Mermaid";1989;83;0
+97814;"Kiki's Delivery Service";1989;103;0
+97958;"National Lampoon's Christmas Vacation";1989;97;0
+98084;"Pet Sematary";1989;103;0
+98439;"Tango & Cash";1989;104;0
+98554;"Uncle Buck";1989;100;0
+98635;"When Harry Met Sally...";1989;95;0
+99077;"Awakenings";1990;121;0
+99088;"Back to the Future Part III";1990;118;0
+99348;"Dances with Wolves";1990;181;0
+99423;"Die Hard 2";1990;124;0
+99487;"Edward Scissorhands";1990;105;0
+99653;"Ghost";1990;127;0
+99674;"The Godfather Part III";1990;162;0
+99685;"Goodfellas";1990;145;0
+99700;"Gremlins 2: The New Batch";1990;106;0
+99785;"Home Alone";1990;103;0
+99810;"The Hunt for Red October";1990;135;0
+99871;"Jacob's Ladder";1990;113;0
+99938;"Kindergarten Cop";1990;111;0
+100150;"Miller's Crossing";1990;115;0
+100157;"Misery";1990;107;0
+100403;"Predator 2";1990;108;0
+100405;"Pretty Woman";1990;119;0
+100507;"Rocky V";1990;104;0
+100802;"Total Recall";1990;113;0
+100814;"Tremors";1990;96;0
+101272;"The Addams Family";1991;99;0
+101410;"Barton Fink";1991;116;0
+101414;"Beauty and the Beast";1991;84;0
+101507;"Boyz n the Hood";1991;112;0
+101540;"Cape Fear";1991;128;0
+102057;"Hook";1991;142;0
+102059;"Hot Shots!";1991;84;0
+102138;"JFK";1991;189;0
+102266;"The Last Boy Scout";1991;105;0
+102510;"The Naked Gun 2½: The Smell of Fear";1991;85;0
+102685;"Point Break";1991;122;0
+102798;"Robin Hood: Prince of Thieves";1991;143;0
+102926;"The Silence of the Lambs";1991;118;0
+103064;"Terminator 2: Judgment Day";1991;137;0
+103074;"Thelma & Louise";1991;130;0
+103639;"Aladdin";1992;90;0
+103644;"Alien³";1992;114;0
+103772;"Basic Instinct";1992;127;0
+103776;"Batman Returns";1992;126;0
+103855;"The Bodyguard";1992;129;0
+103874;"Dracula";1992;128;0
+104070;"Death Becomes Her";1992;104;0
+104257;"A Few Good Men";1992;138;0
+104348;"Glengarry Glen Ross";1992;100;0
+104431;"Home Alone 2: Lost in New York";1992;120;0
+104691;"The Last of the Mohicans";1992;112;0
+104694;"A League of Their Own";1992;128;0
+104714;"Lethal Weapon 3";1992;118;0
+104952;"My Cousin Vinny";1992;120;0
+105112;"Patriot Games";1992;117;0
+105236;"Reservoir Dogs";1992;99;0
+105323;"Scent of a Woman";1992;156;0
+105417;"Sister Act";1992;100;0
+105665;"Twin Peaks: Fire Walk with Me";1992;134;0
+105695;"Unforgiven";1992;130;0
+105793;"Wayne's World";1992;94;0
+106220;"Addams Family Values";1993;94;0
+106308;"Army of Darkness";1992;81;0
+106489;"A Bronx Tale";1993;121;0
+106519;"Carlito's Way";1993;144;0
+106582;"Cliffhanger";1993;113;0
+106611;"Cool Runnings";1993;98;0
+106677;"Dazed and Confused";1993;103;0
+106697;"Demolition Man";1993;115;0
+106856;"Falling Down";1993;113;0
+106918;"The Firm";1993;154;0
+106977;"The Fugitive";1993;130;0
+107048;"Groundhog Day";1993;101;0
+107120;"Hocus Pocus";1993;96;0
+107206;"In the Line of Fire";1993;128;0
+107207;"In the Name of the Father";1993;133;0
+107290;"Jurassic Park";1993;127;0
+107362;"Last Action Hero";1993;130;0
+107614;"Mrs. Doubtfire";1993;125;0
+107688;"The Nightmare Before Christmas";1993;76;0
+107818;"Philadelphia";1993;125;0
+107977;"Robin Hood: Men in Tights";1993;104;0
+108052;"Schindler's List";1993;195;0
+108160;"Sleepless in Seattle";1993;105;0
+108358;"Tombstone";1993;130;0
+108394;"Three Colors: Blue";1993;94;0
+108399;"True Romance";1993;119;0
+108550;"What's Eating Gilbert Grape";1993;118;0
+109040;"Ace Ventura: Pet Detective";1994;86;0
+109444;"Clear and Present Danger";1994;141;0
+109445;"Clerks";1994;92;0
+109506;"The Crow";1994;102;0
+109686;"Dumb and Dumber";1994;107;0
+109707;"Ed Wood";1994;127;0
+109830;"Forrest Gump";1994;142;0
+109831;"Four Weddings and a Funeral";1994;117;0
+110148;"Interview with the Vampire: The Vampire Chronicles";1994;123;0
+110322;"Legends of the Fall";1994;133;0
+110357;"The Lion King";1994;88;0
+110413;"Léon: The Professional";1994;110;0
+110475;"The Mask";1994;101;0
+110478;"Maverick";1994;127;0
+110622;"Naked Gun 33 1/3: The Final Insult";1994;83;0
+110632;"Natural Born Killers";1994;119;0
+110912;"Pulp Fiction";1994;154;0
+111070;"The Santa Clause";1994;97;0
+111161;"The Shawshank Redemption";1994;142;0
+111257;"Speed";1994;116;0
+111282;"Stargate";1994;116;0
+111495;"Three Colors: Red";1994;99;0
+111503;"True Lies";1994;141;0
+112281;"Ace Ventura: When Nature Calls";1995;90;0
+112384;"Apollo 13";1995;140;0
+112431;"Babe";1995;91;0
+112442;"Bad Boys";1995;119;0
+112461;"The Basketball Diaries";1995;102;0
+112462;"Batman Forever";1995;121;0
+112471;"Before Sunrise";1995;101;0
+112508;"Billy Madison";1995;89;0
+112573;"Braveheart";1995;178;0
+112641;"Casino";1995;178;0
+112642;"Casper";1995;100;0
+112697;"Clueless";1995;97;0
+112740;"Crimson Tide";1995;116;0
+112851;"Desperado";1995;104;0
+112864;"Die Hard with a Vengeance";1995;128;0
+113101;"Four Rooms";1995;98;0
+113118;"Friday";1995;91;0
+113189;"GoldenEye";1995;130;0
+113247;"La haine";1995;98;0
+113277;"Heat";1995;170;0
+113492;"Judge Dredd";1995;96;0
+113497;"Jumanji";1995;104;0
+113568;"Ghost in the Shell";1995;83;0
+113627;"Leaving Las Vegas";1995;111;0
+113749;"Mallrats";1995;94;0
+113855;"Mortal Kombat";1995;101;0
+114069;"Outbreak";1995;127;0
+114148;"Pocahontas";1995;81;0
+114369;"Se7en";1995;127;0
+114388;"Sense and Sensibility";1995;136;0
+114709;"Toy Story";1995;81;0
+114746;"12 Monkeys";1995;129;0
+114814;"The Usual Suspects";1995;106;0
+114898;"Waterworld";1995;135;0
+114924;"While You Were Sleeping";1995;103;0
+115433;"101 Dalmatians";1996;103;0
+115759;"Broken Arrow";1996;108;0
+115798;"The Cable Guy";1996;96;0
+116209;"The English Patient";1996;162;0
+116213;"Eraser";1996;115;0
+116282;"Fargo";1996;98;0
+116367;"From Dusk Till Dawn";1996;108;0
+116483;"Happy Gilmore";1996;92;0
+116583;"The Hunchback of Notre Dame";1996;91;0
+116629;"Independence Day";1996;145;0
+116695;"Jerry Maguire";1996;139;0
+116705;"Jingle All the Way";1996;89;0
+116922;"Lost Highway";1997;134;0
+116996;"Mars Attacks!";1996;106;0
+117008;"Matilda";1996;98;0
+117060;"Mission: Impossible";1996;110;0
+117218;"The Nutty Professor";1996;95;0
+117381;"Primal Fear";1996;129;0
+117438;"Ransom";1996;121;0
+117500;"The Rock";1996;136;0
+117509;"Romeo + Juliet";1996;120;0
+117571;"Scream";1996;111;0
+117665;"Sleepers";1996;147;0
+117705;"Space Jam";1996;88;0
+117731;"Star Trek: First Contact";1996;111;0
+117913;"A Time to Kill";1996;149;0
+117951;"Trainspotting";1996;93;0
+117998;"Twister";1996;113;0
+118571;"Air Force One";1997;124;0
+118583;"Alien: Resurrection";1997;109;0
+118615;"Anaconda";1997;89;0
+118617;"Anastasia";1997;94;0
+118655;"Austin Powers: International Man of Mystery";1997;94;0
+118688;"Batman & Robin";1997;125;0
+118689;"Bean";1997;89;0
+118694;"In the Mood for Love";2000;98;0
+118715;"The Big Lebowski";1998;117;0
+118749;"Boogie Nights";1997;155;0
+118799;"Life Is Beautiful";1997;116;0
+118842;"Chasing Amy";1997;113;0
+118880;"Con Air";1997;115;0
+118883;"Conspiracy Theory";1997;135;0
+118884;"Contact";1997;150;0
+118929;"Dark City";1998;100;0
+118971;"The Devil's Advocate";1997;144;0
+119008;"Donnie Brasco";1997;127;0
+119081;"Event Horizon";1997;96;0
+119094;"Face/Off";1997;138;0
+119116;"The Fifth Element";1997;126;0
+119164;"The Full Monty";1997;91;0
+119174;"The Game";1997;129;0
+119177;"Gattaca";1997;106;0
+119217;"Good Will Hunting";1997;126;0
+119282;"Hercules";1997;93;0
+119303;"Home Alone 3";1997;102;0
+119345;"I Know What You Did Last Summer";1997;101;0
+119395;"The Jackal";1997;124;0
+119396;"Jackie Brown";1997;154;0
+119488;"L.A. Confidential";1997;138;0
+119528;"Liar Liar";1997;86;0
+119567;"The Lost World: Jurassic Park";1997;129;0
+119643;"Meet Joe Black";1998;178;0
+119654;"Men in Black";1997;98;0
+119698;"Princess Mononoke";1997;134;0
+119738;"My Best Friend's Wedding";1997;105;0
+119822;"As Good as It Gets";1997;139;0
+120082;"Scream 2";1997;120;0
+120102;"Seven Years in Tibet";1997;136;0
+120184;"Sphere";1998;134;0
+120188;"Three Kings";1999;114;0
+120201;"Starship Troopers";1997;129;0
+120338;"Titanic";1997;194;0
+120347;"Tomorrow Never Dies";1997;119;0
+120363;"Toy Story 2";1999;92;0
+120382;"The Truman Show";1998;103;0
+120484;"The Waterboy";1998;90;0
+120586;"American History X";1998;119;0
+120587;"Antz";1998;83;0
+120591;"Armageddon";1998;151;0
+120601;"Being John Malkovich";1999;113;0
+120611;"Blade";1998;120;0
+120616;"The Mummy";1999;124;0
+120623;"A Bug's Life";1998;95;0
+120630;"Chicken Run";2000;84;0
+120632;"City of Angels";1998;114;0
+120647;"Deep Impact";1998;120;0
+120655;"Dogma";1999;130;0
+120657;"The 13th Warrior";1999;102;0
+120660;"Enemy of the State";1998;132;0
+120663;"Eyes Wide Shut";1999;159;0
+120667;"Fantastic Four";2005;106;0
+120669;"Fear and Loathing in Las Vegas";1998;118;0
+120681;"From Hell";2001;122;0
+120685;"Godzilla";1998;139;0
+120689;"The Green Mile";1999;189;0
+120735;"Lock, Stock and Two Smoking Barrels";1998;107;0
+120737;"The Lord of the Rings: The Fellowship of the Ring";2001;178;0
+120744;"The Man in the Iron Mask";1998;132;0
+120746;"The Mask of Zorro";1998;136;0
+120755;"Mission: Impossible II";2000;123;0
+120762;"Mulan";1998;87;0
+120768;"The Negotiator";1998;140;0
+120783;"The Parent Trap";1998;128;0
+120784;"Payback";1999;100;0
+120789;"Pleasantville";1998;124;0
+120794;"The Prince of Egypt";1998;99;0
+120804;"Resident Evil";2002;100;0
+120812;"Rush Hour";1998;98;0
+120815;"Saving Private Ryan";1998;169;0
+120855;"Tarzan";1999;88;0
+120863;"The Thin Red Line";1998;170;0
+120873;"U.S. Marshals";1998;131;0
+120888;"The Wedding Singer";1998;97;0
+120889;"What Dreams May Come";1998;113;0
+120890;"Wild Things";1998;108;0
+120891;"Wild Wild West";1999;106;0
+120902;"The X Files";1998;121;0
+120903;"X-Men";2000;104;0
+120907;"eXistenZ";1999;97;0
+120912;"Men in Black II";2002;88;0
+120915;"Star Wars: Episode I - The Phantom Menace";1999;136;0
+120917;"The Emperor's New Groove";2000;78;0
+121164;"Corpse Bride";2005;77;0
+121765;"Star Wars: Episode II - Attack of the Clones";2002;142;0
+121766;"Star Wars: Episode III - Revenge of the Sith";2005;140;0
+122151;"Lethal Weapon 4";1998;127;0
+122690;"Ronin";1998;122;0
+122718;"Small Soldiers";1998;108;0
+122933;"Analyze This";1999;103;0
+123755;"Cube";1997;90;0
+124315;"The Cider House Rules";1999;126;0
+125439;"Notting Hill";1999;124;0
+125664;"Man on the Moon";1999;118;0
+126029;"Shrek";2001;90;0
+127536;"Elizabeth";1998;124;0
+128442;"Rounders";1998;121;0
+128445;"Rushmore";1998;93;0
+128853;"You've Got Mail";1998;119;0
+129167;"The Iron Giant";1999;86;0
+129290;"Patch Adams";1998;115;0
+129387;"There's Something About Mary";1998;119;0
+130827;"Run Lola Run";1998;81;0
+133093;"The Matrix";1999;136;0
+133152;"Planet of the Apes";2001;119;0
+133240;"Treasure Planet";2002;95;0
+133751;"The Faculty";1998;104;0
+134084;"Scream 3";2000;116;0
+134119;"The Talented Mr. Ripley";1999;139;0
+134273;"8MM";1999;123;0
+134847;"Pitch Black";2000;109;0
+137494;"Entrapment";1999;113;0
+137523;"Fight Club";1999;139;0
+138097;"Shakespeare in Love";1998;123;0
+138704;"Pi";1998;84;0
+138749;"The Road to El Dorado";2000;89;0
+139134;"Cruel Intentions";1999;97;0
+139654;"Training Day";2001;122;0
+140352;"The Insider";1999;157;0
+142342;"Big Daddy";1999;93;0
+142688;"The Ninth Gate";1999;133;0
+143145;"The World Is Not Enough";1999;128;0
+144084;"American Psycho";2000;102;0
+144117;"The Boondock Saints";1999;108;0
+145487;"Spider-Man";2002;121;0
+145660;"Austin Powers: The Spy Who Shagged Me";1999;95;0
+145681;"The Bone Collector";1999;118;0
+146316;"Lara Croft: Tomb Raider";2001;100;0
+146675;"End of Days";1999;122;0
+146838;"Any Given Sunday";1999;162;0
+146882;"High Fidelity";2000;113;0
+147800;"10 Things I Hate About You";1999;97;0
+149261;"Deep Blue Sea";1999;105;0
+151804;"Office Space";1999;89;0
+158983;"South Park: Bigger, Longer & Uncut";1999;81;0
+159097;"The Virgin Suicides";1999;97;0
+159273;"Behind Enemy Lines";2001;106;0
+159365;"Cold Mountain";2003;154;0
+160127;"Charlie's Angels";2000;98;0
+161081;"What Lies Beneath";2000;130;0
+162222;"Cast Away";2000;143;0
+162346;"Ghost World";2001;111;0
+162661;"Sleepy Hollow";1999;105;0
+163025;"Jurassic Park III";2001;92;0
+163187;"Runaway Bride";1999;116;0
+163651;"American Pie";1999;95;0
+163978;"The Beach";2000;119;0
+164052;"Hollow Man";2000;112;0
+164184;"The Sum of All Fears";2002;124;0
+164912;"Stuart Little";1999;84;0
+166924;"Mulholland Drive";2001;147;0
+167190;"Hellboy";2004;122;0
+167260;"The Lord of the Rings: The Return of the King";2003;201;0
+167261;"The Lord of the Rings: The Two Towers";2002;179;0
+167404;"The Sixth Sense";1999;107;0
+168629;"Dancer in the Dark";2000;140;0
+169102;"Lagaan: Once Upon a Time in India";2001;224;0
+169547;"American Beauty";1999;122;0
+170016;"How the Grinch Stole Christmas";2000;104;0
+171804;"Boys Don't Cry";1999;118;0
+172156;"Bad Boys II";2003;147;0
+172493;"Girl, Interrupted";1999;127;0
+172495;"Gladiator";2000;155;0
+175142;"Scary Movie";2000;88;0
+175880;"Magnolia";1999;188;0
+177789;"Galaxy Quest";1999;102;0
+177971;"The Perfect Storm";2000;130;0
+180093;"Requiem for a Dream";2000;102;0
+181689;"Minority Report";2002;145;0
+181852;"Terminator 3: Rise of the Machines";2003;109;0
+181865;"Traffic";2000;147;0
+181875;"Almost Famous";2000;122;0
+182789;"Bicentennial Man";1999;132;0
+183505;"Me, Myself & Irene";2000;116;0
+183649;"Phone Booth";2002;81;0
+183790;"A Knight's Tale";2001;132;0
+184894;"Shanghai Noon";2000;110;0
+185431;"Little Nicky";2000;90;0
+185937;"The Blair Witch Project";1999;81;0
+186151;"Frequency";2000;118;0
+187078;"Gone in 60 Seconds";2000;118;0
+187393;"The Patriot";2000;165;0
+187738;"Blade II";2002;117;0
+190138;"The Whole Nine Yards";2000;98;0
+190332;"Crouching Tiger, Hidden Dragon";2000;120;0
+190590;"O Brother, Where Art Thou?";2000;107;0
+195685;"Erin Brockovich";2000;131;0
+195714;"Final Destination";2000;98;0
+196229;"Zoolander";2001;90;0
+198781;"Monsters, Inc.";2001;92;0
+200465;"The Bank Job";2008;111;0
+200550;"Coyote Ugly";2000;100;0
+203009;"Moulin Rouge!";2001;127;0
+203019;"Men of Honor";2000;129;0
+204946;"Bring It On";2000;98;0
+206634;"Children of Men";2006;109;0
+207201;"What Women Want";2000;127;0
+208092;"Snatch";2000;104;0
+209144;"Memento";2000;113;0
+209163;"The Mummy Returns";2001;130;0
+209958;"The Cell";2000;107;0
+210945;"Remember the Titans";2000;113;0
+211915;"Amélie";2001;122;0
+212338;"Meet the Parents";2000;108;0
+212346;"Miss Congeniality";2000;109;0
+212720;"A.I. Artificial Intelligence";2001;146;0
+212985;"Hannibal";2001;131;0
+213149;"Pearl Harbor";2001;183;0
+213847;"Malena";2000;108;0
+215129;"Road Trip";2000;93;0
+215750;"Enemy at the Gates";2001;131;0
+216216;"The 6th Day";2000;123;0
+217505;"Gangs of New York";2002;167;0
+217869;"Unbreakable";2000;106;0
+218967;"The Family Man";2000;125;0
+221027;"Blow";2001;124;0
+223897;"Pay It Forward";2000;123;0
+227445;"The Score";2001;124;0
+227538;"Spy Kids";2001;88;0
+230011;"Atlantis: The Lost Empire";2001;95;0
+230030;"Bedazzled";2000;93;0
+230600;"The Others";2001;101;0
+232500;"The Fast and the Furious";2001;106;0
+234215;"The Matrix Reloaded";2003;138;0
+236493;"The Mexican";2001;123;0
+238380;"Equilibrium";2002;107;0
+240772;"Ocean's Eleven";2001;116;0
+240890;"Serendipity";2001;90;0
+241303;"Chocolat";2000;121;0
+241527;"Harry Potter and the Sorcerer's Stone";2001;152;0
+242423;"Dude, Where's My Car?";2000;83;0
+242653;"The Matrix Revolutions";2003;129;0
+243133;"The Man Who Wasn't There";2001;116;0
+243155;"Bridget Jones's Diary";2001;97;0
+244244;"Swordfish";2001;99;0
+245429;"Spirited Away";2001;125;0
+245574;"And Your Mother Too";2001;106;0
+245712;"Amores Perros";2000;154;0
+245844;"The Count of Monte Cristo";2002;131;0
+246460;"Die Another Day";2002;133;0
+246578;"Donnie Darko";2001;113;0
+247638;"The Princess Diaries";2001;115;0
+247745;"Super Troopers";2001;100;0
+248667;"Ali";2001;157;0
+249462;"Billy Elliot";2000;110;0
+250494;"Legally Blonde";2001;96;0
+250687;"Rat Race";2001;112;0
+251075;"Evolution";2001;101;0
+251127;"How to Lose a Guy in 10 Days";2003;116;0
+251160;"John Q";2002;116;0
+252866;"American Pie 2";2001;108;0
+253474;"The Pianist";2002;150;0
+253556;"Reign of Fire";2002;101;0
+256380;"Shallow Hal";2001;114;0
+256415;"Sweet Home Alabama";2002;108;0
+257044;"Road to Perdition";2002;117;0
+257076;"S.W.A.T.";2003;117;0
+257106;"Scary Movie 2";2001;83;0
+257360;"About Schmidt";2002;125;0
+258000;"Panic Room";2002;112;0
+258463;"The Bourne Identity";2002;119;0
+259324;"Ghost Rider";2007;110;0
+259446;"My Big Fat Greek Wedding";2002;95;0
+259711;"Vanilla Sky";2001;136;0
+261392;"Jay and Silent Bob Strike Back";2001;104;0
+263488;"Jeepers Creepers";2001;90;0
+264464;"Catch Me If You Can";2002;141;0
+265086;"Black Hawk Down";2001;144;0
+265208;"The Girl Next Door";2004;109;0
+265459;"One Hour Photo";2002;96;0
+265666;"The Royal Tenenbaums";2001;110;0
+266308;"Battle Royale";2000;114;0
+266543;"Finding Nemo";2003;100;0
+266697;"Kill Bill: Vol. 1";2003;111;0
+266915;"Rush Hour 2";2001;90;0
+266987;"Spy Game";2001;126;0
+267913;"Scooby-Doo";2002;89;0
+268126;"Adaptation.";2002;115;0
+268380;"Ice Age";2002;81;0
+268695;"The Time Machine";2002;96;0
+268978;"A Beautiful Mind";2001;135;0
+272152;"K-PAX";2001;120;0
+272338;"Punch-Drunk Love";2002;95;0
+274166;"Johnny English";2003;89;0
+274558;"The Hours";2002;110;0
+275847;"Lilo & Stitch";2002;85;0
+276751;"About a Boy";2002;101;0
+276919;"Dogville";2003;178;0
+277027;"I Am Sam";2001;132;0
+277296;"The Scorpion King";2002;92;0
+277371;"Not Another Teen Movie";2001;89;0
+277434;"We Were Soldiers";2002;138;0
+278504;"Insomnia";2002;118;0
+280590;"Mr. Deeds";2002;96;0
+281358;"A Walk to Remember";2002;101;0
+283111;"National Lampoon's Van Wilder";2002;92;0
+285823;"Once Upon a Time in Mexico";2003;102;0
+286106;"Signs";2002;106;0
+286499;"Bend It Like Beckham";2002;112;0
+286716;"Hulk";2003;138;0
+287467;"Talk to Her";2002;112;0
+287978;"Daredevil";2003;103;0
+288477;"Ghost Ship";2002;91;0
+289043;"28 Days Later";2002;113;0
+289765;"Red Dragon";2002;124;0
+289879;"The Butterfly Effect";2004;113;0
+289992;"The Life of David Gale";2003;130;0
+290002;"Meet the Fockers";2004;115;0
+290334;"X2: X-Men United";2003;134;0
+290673;"Irreversible";2002;97;0
+292506;"The Recruit";2003;115;0
+292963;"Before the Devil Knows You're Dead";2007;117;0
+293429;"Mortal Kombat";2021;110;0
+293508;"The Phantom of the Opera";2004;143;0
+293564;"Rush Hour 3";2007;91;0
+293662;"The Transporter";2002;92;0
+295178;"Austin Powers in Goldmember";2002;94;0
+295297;"Harry Potter and the Chamber of Secrets";2002;161;0
+295700;"Wrong Turn";2003;84;0
+295701;"xXx";2002;124;0
+296572;"The Chronicles of Riddick";2004;119;0
+298130;"The Ring";2002;115;0
+298148;"Shrek 2";2004;93;0
+298203;"8 Mile";2002;110;0
+298814;"The Core";2003;135;0
+299658;"Chicago";2002;113;0
+299977;"Hero";2002;120;0
+300471;"Shanghai Knights";2003;114;0
+301357;"Good Bye Lenin!";2003;121;0
+302886;"Old School";2003;88;0
+304141;"Harry Potter and the Prisoner of Azkaban";2004;142;0
+305224;"Anger Management";2003;106;0
+305357;"Charlie's Angels: Full Throttle";2003;106;0
+306047;"Scary Movie 3";2003;84;0
+307453;"Shark Tale";2004;90;0
+307901;"25th Hour";2002;135;0
+307987;"Bad Santa";2003;92;0
+308644;"Finding Neverland";2004;106;0
+309593;"Final Destination 2";2003;90;0
+309698;"Identity";2003;90;0
+309987;"The Dreamers";2003;115;0
+310793;"Bowling for Columbine";2002;120;0
+311113;"Master and Commander: The Far Side of the World";2003;138;0
+311429;"The League of Extraordinary Gentlemen";2003;110;0
+312004;"The Curse of the Were-Rabbit";2005;85;0
+313542;"Runaway Jury";2003;127;0
+313737;"Two Weeks Notice";2002;101;0
+314331;"Love Actually";2003;135;0
+314353;"Tears of the Sun";2003;121;0
+315327;"Bruce Almighty";2003;101;0
+315733;"21 Grams";2003;124;0
+316654;"Spider-Man 2";2004;127;0
+317198;"Bridget Jones: The Edge of Reason";2004;108;0
+317219;"Cars";2006;117;0
+317248;"City of God";2002;130;0
+317705;"The Incredibles";2004;115;0
+317740;"The Italian Job";2003;111;0
+317919;"Mission: Impossible III";2006;126;0
+318462;"The Motorcycle Diaries";2004;126;0
+318627;"Resident Evil: Apocalypse";2004;94;0
+318649;"Sahara";2005;124;0
+319061;"Big Fish";2003;125;0
+319262;"The Day After Tomorrow";2004;124;0
+319343;"Elf";2003;97;0
+320661;"Kingdom of Heaven";2005;144;0
+320691;"Underworld";2003;121;0
+322259;"2 Fast 2 Furious";2003;107;0
+322330;"Freaky Friday";2003;97;0
+324216;"The Texas Chainsaw Massacre";2003;98;0
+325703;"Lara Croft: Tomb Raider - The Cradle of Life";2003;117;0
+325710;"The Last Samurai";2003;154;0
+325805;"Matchstick Men";2003;116;0
+325980;"Pirates of the Caribbean: The Curse of the Black Pearl";2003;143;0
+327056;"Mystic River";2003;138;0
+327084;"Over the Hedge";2006;83;0
+327554;"Catwoman";2004;104;0
+327597;"Coraline";2009;100;0
+327850;"The Rundown";2003;104;0
+328107;"Man on Fire";2004;146;0
+328828;"American Wedding";2003;96;0
+328880;"Brother Bear";2003;85;0
+329101;"Freddy vs. Jason";2003;97;0
+330373;"Harry Potter and the Goblet of Fire";2005;157;0
+330793;"The Punisher";2004;124;0
+332280;"The Notebook";2004;123;0
+332379;"School of Rock";2003;109;0
+332452;"Troy";2004;163;0
+333766;"Garden State";2004;102;0
+335245;"The Ladykillers";2004;104;0
+335266;"Lost in Translation";2003;102;0
+335345;"The Passion of the Christ";2004;127;0
+335438;"Starsky & Hutch";2004;101;0
+337563;"13 Going on 30";2004;98;0
+337741;"Something's Gotta Give";2003;128;0
+337921;"Cellular";2004;94;0
+337978;"Live Free or Die Hard";2007;128;0
+338013;"Eternal Sunshine of the Spotless Mind";2004;108;0
+338337;"Paycheck";2003;119;0
+338348;"The Polar Express";2004;100;0
+338526;"Van Helsing";2004;131;0
+338564;"Infernal Affairs";2002;101;0
+338751;"The Aviator";2004;170;0
+339291;"A Series of Unfortunate Events";2004;108;0
+340163;"Hostage";2005;113;0
+340855;"Monster";2003;109;0
+342258;"Unleashed";2005;103;0
+343135;"Along Came Polly";2004;90;0
+343660;"50 First Dates";2004;99;0
+343737;"The Good Shepherd";2006;167;0
+343818;"I, Robot";2004;115;0
+346491;"Alexander";2004;175;0
+347149;"Howl's Moving Castle";2004;119;0
+348150;"Superman Returns";2006;154;0
+348333;"Waiting...";2005;94;0
+348836;"Gothika";2003;98;0
+349205;"Cheaper by the Dozen";2003;98;0
+349683;"King Arthur";2004;126;0
+349903;"Ocean's Twelve";2004;125;0
+350258;"Ray";2004;152;0
+351283;"Madagascar";2005;86;0
+352248;"Cinderella Man";2005;144;0
+353969;"Memories of Murder";2003;131;0
+355295;"The Brothers Grimm";2005;118;0
+356150;"EuroTrip";2004;92;0
+356910;"Mr. & Mrs. Smith";2005;120;0
+357413;"Anchorman: The Legend of Ron Burgundy";2004;94;0
+358082;"Robots";2005;91;0
+358273;"Walk the Line";2005;136;0
+359013;"Blade: Trinity";2004;113;0
+359950;"The Secret Life of Walter Mitty";2013;114;0
+360486;"Constantine";2005;121;0
+360717;"King Kong";2005;187;0
+361596;"Fahrenheit 9/11";2004;122;0
+361748;"Inglourious Basterds";2009;153;0
+361862;"The Machinist";2004;101;0
+362120;"Scary Movie 4";2006;83;0
+362227;"The Terminal";2004;128;0
+362270;"The Life Aquatic with Steve Zissou";2004;119;0
+363163;"Downfall";2004;156;0
+363547;"Dawn of the Dead";2004;101;0
+363771;"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe";2005;143;0
+363988;"Secret Window";2004;96;0
+364569;"Oldboy";2003;120;0
+364725;"Dodgeball: A True Underdog Story";2004;92;0
+365737;"Syriana";2005;128;0
+365748;"Shaun of the Dead";2004;99;0
+365830;"Tenacious D in the Pick of Destiny";2006;94;0
+365907;"A Walk Among the Tombstones";2014;114;0
+366548;"Happy Feet";2006;108;0
+366551;"Harold & Kumar Go to White Castle";2004;88;0
+366627;"The Jacket";2005;103;0
+367594;"Charlie and the Chocolate Factory";2005;115;0
+367882;"Indiana Jones and the Kingdom of the Crystal Skull";2008;122;0
+367959;"Hannibal Rising";2007;121;0
+368008;"The Manchurian Candidate";2004;129;0
+368447;"The Village";2004;108;0
+368891;"National Treasure";2004;131;0
+369339;"Collateral";2004;120;0
+369441;"Fun with Dick and Jane";2005;90;0
+369610;"Jurassic World";2015;124;0
+370263;"Alien vs. Predator";2004;101;0
+371724;"The Hitchhiker's Guide to the Galaxy";2005;109;0
+371746;"Iron Man";2008;126;0
+372183;"The Bourne Supremacy";2004;108;0
+372588;"Team America: World Police";2004;98;0
+372784;"Batman Begins";2005;140;0
+373051;"Journey to the Center of the Earth";2008;93;0
+373074;"Kung Fu Hustle";2004;99;0
+373469;"Kiss Kiss Bang Bang";2005;103;0
+373883;"Halloween";2007;109;0
+373889;"Harry Potter and the Order of the Phoenix";2007;138;0
+373926;"The Interpreter";2005;128;0
+374900;"Napoleon Dynamite";2004;96;0
+375063;"Sideways";2004;127;0
+375679;"Crash";2004;112;0
+375912;"Layer Cake";2004;105;0
+376136;"The Rum Diary";2011;119;0
+376541;"Closer";2004;104;0
+376994;"X-Men: The Last Stand";2006;104;0
+377092;"Mean Girls";2004;97;0
+378194;"Kill Bill: Vol. 2";2004;137;0
+379725;"Capote";2005;114;0
+379786;"Serenity";2005;119;0
+380510;"The Lovely Bones";2009;135;0
+381061;"Casino Royale";2006;144;0
+381681;"Before Sunset";2004;80;0
+381707;"White Chicks";2004;109;0
+381849;"3:10 to Yuma";2007;122;0
+382625;"The Da Vinci Code";2006;149;0
+382932;"Ratatouille";2007;111;0
+383574;"Pirates of the Caribbean: Dead Man's Chest";2006;151;0
+384537;"Silent Hill";2006;125;0
+384793;"Accepted";2006;93;0
+384806;"The Amityville Horror";2005;90;0
+385002;"Green Street Hooligans";2005;109;0
+385004;"House of Flying Daggers";2004;119;0
+385752;"The Golden Compass";2007;113;0
+385880;"Monster House";2006;91;0
+386117;"Where the Wild Things Are";2009;101;0
+386140;"The Legend of Zorro";2005;129;0
+386588;"Hitch";2005;118;0
+387131;"The Constant Gardener";2005;129;0
+387564;"Saw";2004;103;0
+387808;"Idiocracy";2006;84;0
+388482;"Transporter 2";2005;87;0
+388795;"Brokeback Mountain";2005;134;0
+389722;"30 Days of Night";2007;113;0
+389790;"Bee Movie";2007;91;0
+389860;"Click";2006;107;0
+390384;"Primer";2004;77;0
+390521;"Super Size Me";2004;100;0
+391198;"The Grudge";2004;91;0
+393109;"Brick";2005;110;0
+393162;"Coach Carter";2005;136;0
+395169;"Hotel Rwanda";2004;121;0
+395584;"The Devil's Rejects";2005;107;0
+396171;"Perfume: The Story of a Murderer";2006;147;0
+396269;"Wedding Crashers";2005;119;0
+396555;"Meet the Robinsons";2007;95;0
+397065;"House of Wax";2005;113;0
+397101;"The Skeleton Key";2005;104;0
+397535;"Memoirs of a Geisha";2005;145;0
+397892;"Bolt";2008;96;0
+398165;"The Longest Yard";2005;113;0
+398286;"Tangled";2010;100;0
+398808;"Bridge to Terabithia";2007;96;0
+399146;"A History of Violence";2005;96;0
+399201;"The Island";2005;136;0
+399295;"Lord of War";2005;122;0
+400717;"Open Season";2006;86;0
+401383;"The Diving Bell and the Butterfly";2007;112;0
+401729;"John Carter";2012;132;0
+401792;"Sin City";2005;124;0
+401855;"Underworld: Evolution";2006;106;0
+402022;"Æon Flux";2005;93;0
+404032;"The Exorcism of Emily Rose";2005;119;0
+404203;"Little Children";2006;137;0
+404390;"Running Scared";2006;122;0
+405094;"The Lives of Others";2006;137;0
+405159;"Million Dollar Baby";2004;132;0
+405296;"A Scanner Darkly";2006;100;0
+405422;"The 40-Year-Old Virgin";2005;116;0
+405508;"Rang De Basanti";2006;167;0
+406375;"Zathura: A Space Adventure";2005;101;0
+407304;"War of the Worlds";2005;116;0
+407887;"The Departed";2006;151;0
+408236;"Sweeney Todd: The Demon Barber of Fleet Street";2007;116;0
+408306;"Munich";2005;164;0
+408790;"Flightplan";2005;98;0
+409182;"Poseidon";2006;98;0
+409459;"Watchmen";2009;162;0
+409847;"Cowboys & Aliens";2011;119;0
+410297;"The Lake House";2006;99;0
+411477;"Hellboy II: The Golden Army";2008;120;0
+412019;"Broken Flowers";2005;106;0
+413099;"Evan Almighty";2007;96;0
+413267;"Shrek the Third";2007;93;0
+413300;"Spider-Man 3";2007;139;0
+414387;"Pride & Prejudice";2005;129;0
+414982;"Final Destination 3";2006;93;0
+414993;"The Fountain";2006;97;0
+415306;"Talladega Nights: The Ballad of Ricky Bobby";2006;108;0
+416320;"Match Point";2005;124;0
+416449;"300";2006;117;0
+417148;"Snakes on a Plane";2006;105;0
+417741;"Harry Potter and the Half-Blood Prince";2009;153;0
+418279;"Transformers";2007;144;0
+418689;"Flags of Our Fathers";2006;135;0
+418763;"Jarhead";2005;125;0
+419706;"Doom";2005;105;0
+420223;"Stranger Than Fiction";2006;113;0
+421073;"Street Kings";2008;109;0
+421239;"Red Eye";2005;85;0
+421715;"The Curious Case of Benjamin Button";2008;166;0
+422720;"Marie Antoinette";2006;123;0
+424095;"Flushed Away";2006;85;0
+424136;"Hard Candy";2005;104;0
+424345;"Clerks II";2006;97;0
+425061;"Get Smart";2008;110;0
+425112;"Hot Fuzz";2007;121;0
+425123;"Just Like Heaven";2005;95;0
+425210;"Lucky Number Slevin";2006;110;0
+426883;"Alpha Dog";2006;122;0
+426931;"August Rush";2007;114;0
+427152;"Dinner for Schmucks";2010;114;0
+427327;"Hairspray";2007;117;0
+427944;"Thank You for Smoking";2005;92;0
+429493;"The A-Team";2010;117;0
+430105;"Four Brothers";2005;109;0
+430357;"Miami Vice";2006;132;0
+430922;"Role Models";2008;99;0
+431197;"The Kingdom";2007;110;0
+431308;"P.S. I Love You";2007;126;0
+432021;"Resident Evil: Extinction";2007;94;0
+432283;"Fantastic Mr. Fox";2009;87;0
+432348;"Saw II";2005;93;0
+433035;"Real Steel";2011;127;0
+433362;"Daybreakers";2009;98;0
+433400;"Just Friends";2005;96;0
+434409;"V for Vendetta";2005;132;0
+435625;"The Descent";2005;99;0
+435651;"The Giver";2014;97;0
+435705;"Next";2007;96;0
+435761;"Toy Story 3";2010;103;0
+436697;"The Queen";2006;103;0
+437086;"Alita: Battle Angel";2019;122;0
+438097;"Ice Age: The Meltdown";2006;91;0
+438488;"Terminator Salvation";2009;115;0
+440963;"The Bourne Ultimatum";2007;115;0
+441773;"Kung Fu Panda";2008;92;0
+441909;"Volver";2006;121;0
+442933;"Beowulf";2007;115;0
+443272;"Lincoln";2012;150;0
+443274;"Vantage Point";2008;90;0
+443453;"Borat";2006;84;0
+443543;"The Illusionist";2006;110;0
+443649;"10,000 BC";2008;109;0
+443680;"The Assassination of Jesse James by the Coward Robert Ford";2007;160;0
+443706;"Zodiac";2007;157;0
+445922;"Across the Universe";2007;133;0
+445934;"Blades of Glory";2006;93;0
+446029;"Scott Pilgrim vs. the World";2010;112;0
+448011;"Knowing";2009;121;0
+448115;"Shazam!";2019;132;0
+448134;"Sunshine";2007;107;0
+448157;"Hancock";2008;92;0
+448694;"Puss in Boots";2011;90;0
+449010;"Eragon";2006;104;0
+449059;"Little Miss Sunshine";2006;101;0
+449088;"Pirates of the Caribbean: At World's End";2007;169;0
+449467;"Babel";2006;143;0
+450232;"16 Blocks";2006;102;0
+450259;"Blood Diamond";2006;143;0
+450278;"Hostel";2005;94;0
+450385;"1408";2007;104;0
+451079;"Horton Hears a Who!";2008;86;0
+451279;"Wonder Woman";2017;141;0
+452594;"The Break-Up";2006;106;0
+452608;"Death Race";2008;105;0
+452623;"Gone Baby Gone";2007;114;0
+452637;"Lady in the Water";2006;110;0
+452694;"The Time Traveler's Wife";2009;107;0
+452702;"Vacancy";2007;85;0
+453451;"Mr. Bean's Holiday";2007;90;0
+453467;"Deja Vu";2006;126;0
+454841;"The Hills Have Eyes";2006;107;0
+454848;"Inside Man";2006;129;0
+454876;"Life of Pi";2012;127;0
+454921;"The Pursuit of Happyness";2006;117;0
+454945;"She's the Man";2006;105;0
+455407;"The Crazies";2010;101;0
+455590;"The Last King of Scotland";2006;123;0
+455824;"Australia";2008;165;0
+455944;"The Equalizer";2014;132;0
+457430;"Pan's Labyrinth";2006;118;0
+457939;"The Holiday";2006;136;0
+458339;"Captain America: The First Avenger";2011;124;0
+458352;"The Devil Wears Prada";2006;109;0
+458481;"Sin City: A Dame to Kill For";2014;102;0
+458525;"X-Men Origins: Wolverine";2009;107;0
+460791;"The Fall";2006;117;0
+461770;"Enchanted";2007;107;0
+462322;"Grindhouse";2007;191;0
+462499;"Rambo";2008;92;0
+462504;"Rescue Dawn";2006;120;0
+462538;"The Simpsons Movie";2007;87;0
+462590;"Step Up";2006;104;0
+463854;"28 Weeks Later";2007;100;0
+463985;"The Fast and the Furious: Tokyo Drift";2006;104;0
+464141;"The Orphanage";2007;105;0
+465234;"National Treasure: Book of Secrets";2007;124;0
+465494;"Hitman";2007;100;0
+465538;"Michael Clayton";2007;119;0
+465580;"Push";2009;111;0
+465602;"Shoot 'Em Up";2007;86;0
+467197;"Max Payne";2008;100;0
+467200;"The Other Boleyn Girl";2008;115;0
+467406;"Juno";2007;96;0
+468492;"The Host";2006;120;0
+468569;"The Dark Knight";2008;152;0
+469494;"There Will Be Blood";2007;158;0
+470752;"Ex Machina";2014;108;0
+471042;"Tower Heist";2011;104;0
+472033;"9";2009;79;0
+472043;"Apocalypto";2006;139;0
+472062;"Charlie Wilson's War";2007;102;0
+472399;"The Mechanic";2011;93;0
+473075;"Prince of Persia: The Sands of Time";2010;116;0
+473705;"State of Play";2009;127;0
+475276;"United 93";2006;111;0
+475290;"Hail, Caesar!";2016;106;0
+475394;"Smokin' Aces";2006;109;0
+477080;"Unstoppable";2010;98;0
+477302;"Extremely Loud & Incredibly Close";2011;129;0
+477347;"Night at the Museum";2006;108;0
+477348;"No Country for Old Men";2007;122;0
+478087;"21";2008;123;0
+478304;"The Tree of Life";2011;139;0
+478311;"Knocked Up";2007;129;0
+478970;"Ant-Man";2015;117;0
+479143;"Rocky Balboa";2006;102;0
+479884;"Crank";2006;88;0
+479952;"Madagascar: Escape 2 Africa";2008;89;0
+480025;"This Is England";2006;101;0
+480242;"Dan in Real Life";2007;98;0
+480249;"I Am Legend";2007;101;0
+480255;"The Losers";2010;97;0
+480687;"Hall Pass";2011;105;0
+481369;"The Number 23";2007;98;0
+481499;"The Croods";2013;98;0
+481536;"Harold & Kumar Escape from Guantanamo Bay";2008;114;0
+482571;"The Prestige";2006;130;0
+482606;"The Strangers";2008;86;0
+485947;"Mr. Nobody";2009;141;0
+486576;"Fantastic Four: Rise of the Silver Surfer";2007;92;0
+486655;"Stardust";2007;127;0
+486822;"Disturbia";2007;105;0
+486946;"Wild Hogs";2007;100;0
+488120;"Fracture";2007;113;0
+489099;"Jumper";2008;88;0
+489270;"Saw III";2006;108;0
+490215;"Silence";2016;161;0
+493464;"Wanted";2008;110;0
+496806;"Ocean's Thirteen";2007;122;0
+497465;"Vicky Cristina Barcelona";2008;96;0
+498380;"Letters from Iwo Jima";2006;141;0
+499448;"The Chronicles of Narnia: Prince Caspian";2008;150;0
+499549;"Avatar";2009;162;0
+756683;"The Man from Earth";2007;87;0
+758730;"Aliens vs. Predator: Requiem";2007;94;0
+758746;"Friday the 13th";2009;97;0
+758752;"Love & Other Drugs";2010;112;0
+758758;"Into the Wild";2007;148;0
+758766;"Music and Lyrics";2007;104;0
+758774;"Body of Lies";2008;128;0
+762107;"I Now Pronounce You Chuck & Larry";2007;115;0
+765010;"Brothers";2009;105;0
+765429;"American Gangster";2007;157;0
+765443;"Eastern Promises";2007;100;0
+770828;"Man of Steel";2013;143;0
+780504;"Drive";2011;100;0
+780521;"The Princess and the Frog";2009;97;0
+780536;"In Bruges";2008;107;0
+780571;"Mr. Brooks";2007;120;0
+780653;"The Wolfman";2010;103;0
+783233;"Atonement";2007;123;0
+790636;"Dallas Buyers Club";2013;117;0
+790686;"Mirrors";2008;110;0
+790724;"Jack Reacher";2012;130;0
+790736;"R.I.P.D.";2013;96;0
+795368;"Death at a Funeral";2007;90;0
+795421;"Mamma Mia!";2008;108;0
+796366;"Star Trek";2009;127;0
+799949;"Epic Movie";2007;86;0
+800039;"Forgetting Sarah Marshall";2008;111;0
+800080;"The Incredible Hulk";2008;112;0
+800320;"Clash of the Titans";2010;106;0
+800369;"Thor";2011;115;0
+803096;"Warcraft";2016;123;0
+804497;"It's Kind of a Funny Story";2010;101;0
+805564;"Lars and the Real Girl";2007;106;0
+808151;"Angels & Demons";2009;138;0
+808279;"Funny Games";2007;111;0
+810819;"The Danish Girl";2015;119;0
+814255;"Percy Jackson & the Olympians: The Lightning Thief";2010;118;0
+814314;"Seven Pounds";2008;123;0
+815236;"She's Out of My League";2010;104;0
+816442;"The Book Thief";2013;131;0
+816462;"Conan the Barbarian";2011;113;0
+816692;"Interstellar";2014;169;0
+816711;"World War Z";2013;116;0
+817230;"Valentine's Day";2010;125;0
+822832;"Marley & Me";2008;111;0
+822847;"Priest";2011;87;0
+822854;"Shooter";2007;124;0
+824747;"Changeling";2008;141;0
+825232;"The Bucket List";2007;97;0
+829150;"Dracula Untold";2014;92;0
+829482;"Superbad";2007;113;0
+830515;"Quantum of Solace";2008;106;0
+831387;"Godzilla";2014;123;0
+832266;"Definitely, Maybe";2008;112;0
+834001;"Underworld: Rise of the Lycans";2009;92;0
+837562;"Hotel Transylvania";2012;91;0
+838221;"The Darjeeling Limited";2007;91;0
+838283;"Step Brothers";2008;98;0
+840361;"The Town";2010;125;0
+842926;"The Kids Are All Right";2010;106;0
+844471;"Cloudy with a Chance of Meatballs";2009;90;0
+848228;"The Avengers";2012;143;0
+848537;"Epic";2013;102;0
+859163;"The Mummy: Tomb of the Dragon Emperor";2008;112;0
+861739;"Elite Squad";2007;115;0
+865556;"The Forbidden Kingdom";2008;104;0
+870111;"Frost/Nixon";2008;122;0
+870154;"Jungle Cruise";2021;127;0
+870984;"Antichrist";2009;108;0
+876563;"Ponyo";2008;101;0
+878804;"The Blind Side";2009;129;0
+879870;"Eat Pray Love";2010;133;0
+884328;"The Mist";2007;126;0
+887883;"Burn After Reading";2008;96;0
+887912;"The Hurt Locker";2008;131;0
+889573;"The Switch";2010;101;0
+889583;"Brüno";2009;81;0
+890870;"Saw IV";2007;93;0
+892318;"Letters to Juliet";2010;105;0
+892769;"How to Train Your Dragon";2010;98;0
+892782;"Monsters vs. Aliens";2009;94;0
+892791;"Shrek Forever After";2010;95;0
+898367;"The Road";2009;111;0
+901476;"Bride Wars";2009;89;0
+903624;"The Hobbit: An Unexpected Journey";2012;169;0
+905372;"The Thing";2011;103;0
+907657;"Once";2007;86;0
+910936;"Pineapple Express";2008;111;0
+910970;"WALL·E";2008;98;0
+914798;"The Boy in the Striped Pajamas";2008;94;0
+918927;"Doubt";2008;104;0
+918940;"The Legend of Tarzan";2016;110;0
+926084;"Harry Potter and the Deathly Hallows: Part 1";2010;146;0
+929632;"Precious";2009;110;0
+936501;"Taken";2008;90;0
+938283;"The Last Airbender";2010;103;0
+942385;"Tropic Thunder";2008;107;0
+944835;"Salt";2010;100;0
+945513;"Source Code";2011;93;0
+947798;"Black Swan";2010;108;0
+947810;"Green Zone";2010;115;0
+948470;"The Amazing Spider-Man";2012;136;0
+949731;"The Happening";2008;91;0
+955308;"Robin Hood";2010;140;0
+959337;"Revolutionary Road";2008;119;0
+960144;"You Don't Mess with the Zohan";2008;113;0
+963966;"The Sorcerer's Apprentice";2010;109;0
+964517;"The Fighter";2010;116;0
+970179;"Hugo";2011;126;0
+970416;"The Day the Earth Stood Still";2008;104;0
+970866;"Little Fockers";2010;98;0
+974015;"Justice League";2017;120;0
+974661;"17 Again";2009;102;0
+976051;"The Reader";2008;124;0
+978762;"Mary and Max";2009;92;0
+978764;"Sucker Punch";2011;110;0
+980970;"The Chronicles of Narnia: The Voyage of the Dawn Treader";2010;113;0
+983193;"The Adventures of Tintin";2011;107;0
+985694;"Machete";2010;105;0
+985699;"Valkyrie";2008;121;0
+986263;"Surrogates";2009;89;0
+986264;"Like Stars on Earth";2007;165;0
+988045;"Sherlock Holmes";2009;128;0
+988595;"27 Dresses";2008;111;0
+989757;"Dear John";2010;108;0
+990407;"The Green Hornet";2011;119;0
+993840;"Army of the Dead";2021;148;0
+993842;"Hanna";2011;111;0
+993846;"The Wolf of Wall Street";2013;180;0
+1000774;"Sex and the City";2008;145;0
+1001508;"He's Just Not That Into You";2009;129;0
+1001526;"Megamind";2010;95;0
+1007028;"Zack and Miri Make a Porno";2008;101;0
+1007029;"The Iron Lady";2011;105;0
+1010048;"Slumdog Millionaire";2008;120;0
+1013743;"Knight and Day";2010;109;0
+1013752;"Fast & Furious";2009;107;0
+1013753;"Milk";2008;128;0
+1014759;"Alice in Wonderland";2010;108;0
+1016150;"All Quiet on the Western Front";2022;148;0
+1019452;"A Serious Man";2009;106;0
+1022603;"500 Days of Summer";2009;95;0
+1023111;"Never Back Down";2008;113;0
+1023114;"The Way Back";2010;133;0
+1024648;"Argo";2012;120;0
+1025100;"Gemini Man";2019;117;0
+1027718;"Wall Street: Money Never Sleeps";2010;133;0
+1028528;"Death Proof";2007;127;0
+1028532;"Hachi: A Dog's Tale";2009;93;0
+1032755;"RocknRolla";2008;114;0
+1033575;"The Descendants";2011;115;0
+1033643;"What Happens in Vegas";2008;99;0
+1034032;"Gamer";2009;95;0
+1034303;"Defiance";2008;137;0
+1037705;"The Book of Eli";2010;118;0
+1038686;"Legion";2010;100;0
+1038919;"The Bounty Hunter";2010;110;0
+1038988;"REC";2007;78;0
+1041829;"The Proposal";2009;108;0
+1045658;"Silver Linings Playbook";2012;122;0
+1045778;"Year One";2009;97;0
+1046173;"G.I. Joe: The Rise of Cobra";2009;118;0
+1049413;"Up";2009;96;0
+1051906;"The Invisible Man";2020;124;0
+1053424;"Repo Men";2010;111;0
+1054606;"The Imaginarium of Doctor Parnassus";2009;123;0
+1055292;"Life as We Know It";2010;115;0
+1055369;"Transformers: Revenge of the Fallen";2009;149;0
+1057500;"Invictus";2009;134;0
+1058017;"The Invention of Lying";2009;100;0
+1059786;"Eagle Eye";2008;118;0
+1060277;"Cloverfield";2008;85;0
+1063669;"The Wave";2008;107;0
+1065073;"Boyhood";2014;165;0
+1067106;"A Christmas Carol";2009;96;0
+1067583;"Water for Elephants";2011;122;0
+1068680;"Yes Man";2008;104;0
+1070874;"The Trial of the Chicago 7";2020;129;0
+1071875;"Ghost Rider: Spirit of Vengeance";2011;96;0
+1073498;"Meet the Spartans";2008;87;0
+1074638;"Skyfall";2012;143;0
+1077258;"Planet Terror";2007;105;0
+1077368;"Dark Shadows";2012;113;0
+1078912;"Night at the Museum: Battle of the Smithsonian";2009;105;0
+1078940;"Couples Retreat";2009;113;0
+1080016;"Ice Age: Dawn of the Dinosaurs";2009;94;0
+1086772;"Blended";2014;117;0
+1091191;"Lone Survivor";2013;121;0
+1091722;"Adventureland";2009;107;0
+1092026;"Paul";2011;104;0
+1099212;"Twilight";2008;122;0
+1100089;"Foxcatcher";2014;134;0
+1104001;"TRON: Legacy";2010;125;0
+1109624;"Paddington";2014;95;0
+1111422;"The Taking of Pelham 123";2009;106;0
+1114740;"Paul Blart: Mall Cop";2009;91;0
+1119646;"The Hangover";2009;100;0
+1120985;"Blue Valentine";2010;112;0
+1121931;"Crank: High Voltage";2009;96;0
+1124035;"The Ides of March";2011;101;0
+1125849;"The Wrestler";2008;109;0
+1127180;"Drag Me to Hell";2009;99;0
+1129442;"Transporter 3";2008;104;0
+1130884;"Shutter Island";2010;138;0
+1131729;"The Boat That Rocked";2009;135;0
+1131734;"Jennifer's Body";2009;102;0
+1132620;"The Girl with the Dragon Tattoo";2009;152;0
+1132626;"Saw V";2008;92;0
+1133985;"Green Lantern";2011;114;0
+1135503;"Julie & Julia";2009;123;0
+1136608;"District 9";2009;112;0
+1139328;"The Ghost Writer";2010;128;0
+1139797;"Let the Right One In";2008;114;0
+1142977;"Frankenweenie";2012;87;0
+1142988;"The Ugly Truth";2009;96;0
+1144884;"The Final Destination";2009;82;0
+1148204;"Orphan";2009;123;0
+1152836;"Public Enemies";2009;140;0
+1155056;"I Love You, Man";2009;105;0
+1155076;"The Karate Kid";2010;140;0
+1156398;"Zombieland";2009;88;0
+1160419;"Dune";2021;155;0
+1161864;"The Rite";2011;114;0
+1170358;"The Hobbit: The Desolation of Smaug";2013;161;0
+1172049;"Demolition";2015;101;0
+1172570;"Bronson";2008;92;0
+1174732;"An Education";2009;100;0
+1179034;"From Paris with Love";2010;92;0
+1179056;"A Nightmare on Elm Street";2010;95;0
+1179904;"Paranormal Activity";2007;86;0
+1179933;"10 Cloverfield Lane";2016;103;0
+1182345;"Moon";2009;97;0
+1187043;"3 Idiots";2009;170;0
+1187064;"Triangle";2009;99;0
+1188729;"Pandorum";2009;108;0
+1188996;"My Name Is Khan";2010;165;0
+1189073;"The Skin I Live In";2011;120;0
+1189340;"The Lincoln Lawyer";2011;118;0
+1190080;"2012";2009;158;0
+1192628;"Rango";2011;107;0
+1193138;"Up in the Air";2009;109;0
+1194173;"The Bourne Legacy";2012;135;0
+1195478;"The Five-Year Engagement";2012;124;0
+1197624;"Law Abiding Citizen";2009;109;0
+1201167;"Funny People";2009;146;0
+1201607;"Harry Potter and the Deathly Hallows: Part 2";2011;130;0
+1204975;"Last Vegas";2013;105;0
+1205489;"Gran Torino";2008;116;0
+1205537;"Jack Ryan: Shadow Recruit";2014;105;0
+1206543;"Out of the Furnace";2013;116;0
+1206885;"Rambo: Last Blood";2019;89;0
+1210166;"Moneyball";2011;133;0
+1210819;"The Lone Ranger";2013;150;0
+1211837;"Doctor Strange";2016;115;0
+1211956;"Escape Plan";2013;115;0
+1212450;"Lawless";2012;116;0
+1213641;"First Man";2018;141;0
+1213663;"The World's End";2013;109;0
+1216475;"Cars 2";2011;106;0
+1216492;"Leap Year";2010;100;0
+1217209;"Brave";2012;93;0
+1217613;"Battle Los Angeles";2011;116;0
+1219289;"Limitless";2011;105;0
+1219827;"Ghost in the Shell";2017;107;0
+1220634;"Resident Evil: Afterlife";2010;96;0
+1220719;"Ip Man";2008;106;0
+1226229;"Get Him to the Greek";2010;109;0
+1228705;"Iron Man 2";2010;124;0
+1228987;"Let Me In";2010;116;0
+1229238;"Mission: Impossible - Ghost Protocol";2011;132;0
+1229340;"Anchorman 2: The Legend Continues";2013;119;0
+1231583;"Due Date";2010;95;0
+1231587;"Hot Tub Time Machine";2010;101;0
+1232200;"That's My Boy";2012;116;0
+1232829;"21 Jump Street";2012;109;0
+1233227;"Saw VI";2009;90;0
+1234548;"The Men Who Stare at Goats";2009;94;0
+1234721;"RoboCop";2014;117;0
+1235166;"A Prophet";2009;155;0
+1240982;"Your Highness";2011;102;0
+1242460;"We Need to Talk About Kevin";2011;112;0
+1243957;"The Tourist";2010;103;0
+1245492;"This Is the End";2013;107;0
+1245526;"RED";2010;111;0
+1250777;"Kick-Ass";2010;117;0
+1253863;"300: Rise of an Empire";2014;102;0
+1253864;"Immortals";2011;110;0
+1255953;"Incendies";2010;131;0
+1258197;"Exam";2009;101;0
+1259521;"The Cabin in the Woods";2011;95;0
+1259528;"Den of Thieves";2018;140;0
+1259571;"The Twilight Saga: New Moon";2009;130;0
+1262416;"Scream 4";2011;111;0
+1267297;"Hercules";2014;98;0
+1270797;"Venom";2018;112;0
+1270798;"X-Men: First Class";2011;131;0
+1272878;"2 Guns";2013;109;0
+1276104;"Looper";2012;119;0
+1277953;"Madagascar 3: Europe's Most Wanted";2012;95;0
+1279935;"Date Night";2010;88;0
+1282140;"Easy A";2010;92;0
+1284575;"Bad Teacher";2011;92;0
+1285016;"The Social Network";2010;120;0
+1288558;"Evil Dead";2013;91;0
+1289401;"Ghostbusters";2016;117;0
+1291150;"Teenage Mutant Ninja Turtles";2014;101;0
+1291584;"Warrior";2011;140;0
+1298649;"The Watch";2012;102;0
+1298650;"Pirates of the Caribbean: On Stranger Tides";2011;137;0
+1300854;"Iron Man 3";2013;130;0
+1302006;"The Irishman";2019;209;0
+1302011;"Kung Fu Panda 2";2011;90;0
+1305806;"The Secret in Their Eyes";2009;129;0
+1306980;"50/50";2011;100;0
+1307068;"Seeking a Friend for the End of the World";2012;101;0
+1314655;"Devil";2010;80;0
+1315981;"A Single Man";2009;99;0
+1318514;"Rise of the Planet of the Apes";2011;105;0
+1320253;"The Expendables";2010;103;0
+1321870;"Gangster Squad";2013;113;0
+1323594;"Despicable Me";2010;95;0
+1324999;"The Twilight Saga: Breaking Dawn - Part 1";2011;117;0
+1325004;"The Twilight Saga: Eclipse";2010;124;0
+1327194;"The Lucky One";2012;101;0
+1327773;"The Butler";2013;132;0
+1333125;"Movie 43";2013;94;0
+1334260;"Never Let Me Go";2010;103;0
+1335975;"47 Ronin";2013;128;0
+1340138;"Terminator Genisys";2015;126;0
+1340800;"Tinker Tailor Soldier Spy";2011;127;0
+1343092;"The Great Gatsby";2013;143;0
+1343727;"Dredd";2012;95;0
+1345836;"The Dark Knight Rises";2012;164;0
+1351685;"Jack the Giant Slayer";2013;114;0
+1355630;"If I Stay";2014;107;0
+1355644;"Passengers";2016;116;0
+1355683;"Black Mass";2015;123;0
+1365519;"Tomb Raider";2018;119;0
+1371111;"Cloud Atlas";2012;172;0
+1375666;"Inception";2010;148;0
+1375670;"Grown Ups";2010;102;0
+1379182;"Dogtooth";2009;97;0
+1385826;"The Adjustment Bureau";2011;106;0
+1386588;"The Other Guys";2010;107;0
+1386697;"Suicide Squad";2016;123;0
+1386703;"Total Recall";2012;118;0
+1386932;"Ip Man 2";2010;108;0
+1389072;"Downsizing";2017;135;0
+1389137;"We Bought a Zoo";2011;124;0
+1390411;"In the Heart of the Sea";2015;122;0
+1392170;"The Hunger Games";2012;142;0
+1392190;"Mad Max: Fury Road";2015;120;0
+1392214;"Prisoners";2013;153;0
+1396218;"Mr. Popper's Penguins";2011;94;0
+1396484;"It";2017;135;0
+1397280;"Taken 2";2012;92;0
+1397514;"Journey 2: The Mysterious Island";2012;94;0
+1398426;"Straight Outta Compton";2015;147;0
+1399103;"Transformers: Dark of the Moon";2011;154;0
+1399683;"Winter's Bone";2010;100;0
+1401152;"Unknown";2011;113;0
+1403865;"True Grit";2010;110;0
+1403981;"Remember Me";2010;113;0
+1408101;"Star Trek Into Darkness";2013;132;0
+1408253;"Ride Along";2014;99;0
+1409024;"Men in Black 3";2012;106;0
+1411238;"No Strings Attached";2011;108;0
+1411250;"Riddick";2013;119;0
+1411697;"The Hangover Part II";2011;102;0
+1424381;"Predators";2010;107;0
+1428538;"Hansel & Gretel: Witch Hunters";2013;88;0
+1430132;"The Wolverine";2013;126;0
+1431045;"Deadpool";2016;108;0
+1433108;"Faster";2010;98;0
+1436562;"Rio";2011;96;0
+1438176;"Fright Night";2011;106;0
+1440129;"Battleship";2012;131;0
+1441395;"Under the Skin";2013;108;0
+1446192;"Rise of the Guardians";2012;97;0
+1446714;"Prometheus";2012;124;0
+1448755;"Killer Elite";2011;116;0
+1450321;"Filth";2013;97;0
+1453405;"Monsters University";2013;104;0
+1454029;"The Help";2011;146;0
+1454468;"Gravity";2013;91;0
+1457767;"The Conjuring";2013;112;0
+1458175;"The Next Three Days";2010;133;0
+1462758;"Buried";2010;95;0
+1464335;"Uncharted";2022;116;0
+1464540;"I Am Number Four";2011;111;0
+1465522;"Tucker and Dale vs Evil";2010;89;0
+1469304;"Baywatch";2017;116;0
+1477076;"Saw 3D";2010;90;0
+1477834;"Aquaman";2018;143;0
+1478338;"Bridesmaids";2011;125;0
+1478964;"Attack the Block";2011;88;0
+1482459;"The Lorax";2012;86;0
+1483013;"Oblivion";2013;124;0
+1485796;"The Greatest Showman";2017;105;0
+1486185;"Red Riding Hood";2011;100;0
+1488555;"The Change-Up";2011;112;0
+1488606;"Triple Frontier";2019;125;0
+1489887;"Booksmart";2019;102;0
+1489889;"Central Intelligence";2016;107;0
+1490017;"The Lego Movie";2014;100;0
+1496025;"Underworld: Awakening";2012;88;0
+1499658;"Horrible Bosses";2011;98;0
+1502397;"Bad Boys for Life";2020;124;0
+1502404;"Drive Angry";2011;104;0
+1502407;"Halloween";2018;106;0
+1502712;"Fantastic Four";2015;100;0
+1504320;"The King's Speech";2010;118;0
+1509767;"The Three Musketeers";2011;110;0
+1515091;"Sherlock Holmes: A Game of Shadows";2011;129;0
+1517260;"The Host";2013;125;0
+1517451;"A Star Is Born";2018;136;0
+1524137;"Contraband";2012;109;0
+1524930;"Vacation";2015;99;0
+1527186;"Melancholia";2011;135;0
+1528100;"Exodus: Gods and Kings";2014;150;0
+1528854;"Daddy's Home";2015;96;0
+1535108;"Elysium";2013;109;0
+1535109;"Captain Phillips";2013;134;0
+1536044;"Paranormal Activity 2";2010;91;0
+1536537;"What Happened to Monday";2017;123;0
+1538403;"The Mortal Instruments: City of Bones";2013;130;0
+1542344;"127 Hours";2010;94;0
+1547234;"Premium Rush";2012;91;0
+1549920;"The Last Stand";2013;107;0
+1560220;"Zombieland: Double Tap";2019;99;0
+1560747;"The Master";2012;138;0
+1563738;"One Day";2011;107;0
+1564367;"Just Go with It";2011;117;0
+1567609;"Get the Gringo";2012;96;0
+1568338;"Man on a Ledge";2012;102;0
+1568346;"The Girl with the Dragon Tattoo";2011;158;0
+1568911;"War Horse";2011;146;0
+1570728;"Crazy, Stupid, Love.";2011;118;0
+1571222;"A Dangerous Method";2011;99;0
+1571234;"Mortal Engines";2018;128;0
+1583421;"G.I. Joe: Retaliation";2013;110;0
+1587310;"Maleficent";2014;97;0
+1588170;"I Saw the Devil";2010;144;0
+1588173;"Warm Bodies";2013;98;0
+1590193;"The Commuter";2018;104;0
+1591095;"Insidious";2010;103;0
+1596343;"Fast Five";2011;130;0
+1596350;"This Means War";2012;103;0
+1596363;"The Big Short";2015;130;0
+1596365;"The Woman in Black";2012;95;0
+1598778;"Contagion";2011;106;0
+1599348;"Safe House";2012;115;0
+1600196;"The Drop";2014;106;0
+1601913;"The Grey";2011;117;0
+1602613;"Only God Forgives";2013;90;0
+1602620;"Amour";2012;127;0
+1605630;"American Reunion";2012;113;0
+1605783;"Midnight in Paris";2011;94;0
+1606378;"A Good Day to Die Hard";2013;98;0
+1606389;"The Vow";2012;104;0
+1611224;"Abraham Lincoln: Vampire Hunter";2012;105;0
+1614989;"Headhunters";2011;100;0
+1615065;"Savages";2012;131;0
+1615147;"Margin Call";2011;107;0
+1615160;"The Foreigner";2017;113;0
+1616195;"J. Edgar";2011;137;0
+1617661;"Jupiter Ascending";2015;127;0
+1618434;"Murder Mystery";2019;97;0
+1618442;"The Last Witch Hunter";2015;106;0
+1622547;"30 Minutes or Less";2011;83;0
+1622979;"Final Destination 5";2011;92;0
+1623205;"Oz the Great and Powerful";2013;130;0
+1623288;"ParaNorman";2012;92;0
+1628841;"Independence Day: Resurgence";2016;120;0
+1630029;"Avatar: The Way of Water";2022;192;0
+1631867;"Edge of Tomorrow";2014;113;0
+1632708;"Friends with Benefits";2011;109;0
+1634122;"Johnny English Reborn";2011;101;0
+1636826;"Project X";2012;88;0
+1637688;"In Time";2011;109;0
+1637725;"Ted";2012;106;0
+1638002;"Love, Rosie";2014;102;0
+1638355;"The Man from U.N.C.L.E.";2015;116;0
+1645170;"The Dictator";2012;83;0
+1646971;"How to Train Your Dragon 2";2014;102;0
+1646987;"Wrath of the Titans";2012;99;0
+1648190;"The Dark Tower";2017;95;0
+1649418;"The Gray Man";2022;122;0
+1649419;"The Impossible";2012;114;0
+1650062;"Super 8";2011;112;0
+1650554;"Kick-Ass 2";2013;103;0
+1655441;"The Age of Adaline";2015;112;0
+1655442;"The Artist";2011;100;0
+1656190;"Safe";2012;94;0
+1657507;"Colombiana";2011;108;0
+1659337;"The Perks of Being a Wallflower";2012;103;0
+1661199;"Cinderella";2015;105;0
+1663202;"The Revenant";2015;156;0
+1663662;"Pacific Rim";2013;131;0
+1667889;"Ice Age: Continental Drift";2012;88;0
+1670345;"Now You See Me";2013;115;0
+1673434;"The Twilight Saga: Breaking Dawn - Part 2";2012;115;0
+1675192;"Take Shelter";2011;121;0
+1675434;"The Intouchables";2011;112;0
+1677720;"Ready Player One";2018;140;0
+1682180;"Stoker";2013;99;0
+1690953;"Despicable Me 2";2013;98;0
+1692486;"Carnage";2011;80;0
+1700841;"Sausage Party";2016;89;0
+1702439;"Safe Haven";2013;115;0
+1706593;"Chronicle";2012;89;0
+1706620;"Snowpiercer";2013;126;0
+1707386;"Les Misérables";2012;158;0
+1714206;"The Spectacular Now";2013;95;0
+1714915;"Only Lovers Left Alive";2013;123;0
+1723121;"We're the Millers";2013;110;0
+1723811;"Shame";2011;101;0
+1727388;"The Way Way Back";2013;103;0
+1727824;"Bohemian Rhapsody";2018;134;0
+1731141;"Ender's Game";2013;114;0
+1735898;"Snow White and the Huntsman";2012;127;0
+1745960;"Top Gun: Maverick";2022;130;0
+1748122;"Moonrise Kingdom";2012;94;0
+1758830;"This Is 40";2012;134;0
+1764234;"Killing Them Softly";2012;97;0
+1764651;"The Expendables 2";2012;103;0
+1772341;"Wreck-It Ralph";2012;101;0
+1781769;"Anna Karenina";2012;129;0
+1790809;"Pirates of the Caribbean: Dead Men Tell No Tales";2017;129;0
+1790864;"The Maze Runner";2014;113;0
+1790885;"Zero Dark Thirty";2012;157;0
+1790886;"The Campaign";2012;85;0
+1791528;"Inherent Vice";2014;148;0
+1798684;"Southpaw";2015;124;0
+1798709;"Her";2013;126;0
+1800241;"American Hustle";2013;138;0
+1800246;"That Awkward Moment";2014;94;0
+1809398;"Unbroken";2014;137;0
+1815862;"After Earth";2013;100;0
+1817273;"The Place Beyond the Pines";2012;140;0
+1821549;"Nebraska";2013;115;0
+1821694;"RED 2";2013;116;0
+1823672;"Chappie";2015;120;0
+1825683;"Black Panther";2018;134;0
+1832382;"A Separation";2011;123;0
+1839492;"Ruby Sparks";2012;104;0
+1840309;"Divergent";2014;139;0
+1843866;"Captain America: The Winter Soldier";2014;136;0
+1853728;"Django Unchained";2012;165;0
+1853739;"You're Next";2011;95;0
+1854564;"Percy Jackson: Sea of Monsters";2013;106;0
+1855199;"End of Watch";2012;109;0
+1855325;"Resident Evil: Retribution";2012;95;0
+1856101;"Blade Runner 2049";2017;164;0
+1860213;"Dirty Grandpa";2016;102;0
+1860353;"Turbo";2013;96;0
+1860357;"Deepwater Horizon";2016;107;0
+1862079;"Safety Not Guaranteed";2012;86;0
+1872181;"The Amazing Spider-Man 2";2014;142;0
+1872194;"The Judge";2014;141;0
+1877830;"The Batman";2022;176;0
+1877832;"X-Men: Days of Future Past";2014;132;0
+1878870;"The Edge of Seventeen";2016;104;0
+1895587;"Spotlight";2015;129;0
+1899353;"The Raid: Redemption";2011;101;0
+1904996;"Parker";2013;118;0
+1905041;"Fast & Furious 6";2013;130;0
+1907668;"Flight";2012;138;0
+1911644;"The Call";2013;96;0
+1915581;"Magic Mike";2012;110;0
+1921064;"Pompeii";2014;105;0
+1922777;"Sinister";2012;110;0
+1924396;"The Best Offer";2013;131;0
+1924429;"Trance";2013;101;0
+1924435;"Let's Be Cops";2014;104;0
+1931533;"Seven Psychopaths";2012;110;0
+1935179;"Mud";2012;130;0
+1935859;"Miss Peregrine's Home for Peculiar Children";2016;127;0
+1937390;"Nymphomaniac: Vol. I";2013;117;0
+1939659;"Carrie";2013;100;0
+1950186;"Ford v Ferrari";2019;152;0
+1951261;"The Hangover Part III";2013;100;0
+1951264;"The Hunger Games: Catching Fire";2013;146;0
+1951265;"The Hunger Games: Mockingjay - Part 1";2014;123;0
+1951266;"The Hunger Games: Mockingjay - Part 2";2015;137;0
+1956620;"Sex Tape";2014;94;0
+1959490;"Noah";2014;138;0
+1959563;"The Hitman's Bodyguard";2017;118;0
+1964418;"Tomorrowland";2015;130;0
+1972591;"King Arthur: Legend of the Sword";2017;126;0
+1979320;"Rush";2013;123;0
+1979376;"Toy Story 4";2019;100;0
+1979388;"The Good Dinosaur";2015;93;0
+1980209;"Pain & Gain";2013;129;0
+1980929;"Begin Again";2013;104;0
+1981115;"Thor: The Dark World";2013;112;0
+1981128;"Geostorm";2017;109;0
+1981677;"Pitch Perfect";2012;112;0
+1985966;"Cloudy with a Chance of Meatballs 2";2013;95;0
+2004420;"Neighbors";2014;97;0
+2005151;"War Dogs";2016;114;0
+2015381;"Guardians of the Galaxy";2014;121;0
+2023587;"Mama";2013;100;0
+2024432;"Identity Thief";2013;111;0
+10016180;"The Little Things";2021;128;0
+10028196;"Laal Singh Chaddha";2022;159;0
+10189514;"Soorarai Pottru";2020;153;0
+10272386;"The Father";2020;97;0
+10288566;"Another Round";2020;117;0
+10293406;"The Power of the Dog";2021;126;0
+10295212;"Shershaah";2021;135;0
+10298810;"Lightyear";2022;105;0
+10366206;"John Wick: Chapter 4";2023;169;0
+10366460;"CODA";2021;111;0
+10640346;"Babylon";2022;189;0
+10648342;"Thor: Love and Thunder";2022;118;0
+10698680;"K.G.F: Chapter 2";2022;168;0
+10731256;"Don't Worry Darling";2022;123;0
+10811166;"The Kashmir Files";2022;170;0
+10838180;"The Matrix Resurrections";2021;148;0
+10872600;"Spider-Man: No Way Home";2021;148;0
+10888594;"Radhe";2021;109;0
+10954600;"Ant-Man and the Wasp: Quantumania";2023;124;0
+10954652;"Old";2021;108;0
+10954984;"Nope";2022;130;0
+11083552;"Wrath of Man";2021;119;0
+11138512;"The Northman";2022;137;0
+11214590;"House of Gucci";2021;158;0
+11233960;"The Unforgivable";2021;112;0
+11245972;"Scream";2022;114;0
+11271038;"Licorice Pizza";2021;133;0
+11286314;"Don't Look Up";2021;138;0
+11291274;"The Unbearable Weight of Massive Talent";2022;107;0
+11564570;"Glass Onion";2022;139;0
+11813216;"The Banshees of Inisherin";2022;114;0
+11866324;"Prey";2022;100;0
+12361974;"Zack Snyder's Justice League";2021;242;0
+12593682;"Bullet Train";2022;127;0
+12801262;"Luca";2021;95;0
+12844910;"Pathaan";2023;146;0
+13143964;"Borat Subsequent Moviefilm";2020;95;0
+13320622;"The Lost City";2022;112;0
+13560574;"X";2022;105;0
+13833688;"The Whale";2022;117;0
+14138650;"The Pale Blue Eye";2022;128;0
+15097216;"Jai Bhim";2021;164;0
+15474916;"Smile";2022;115;0
+15791034;"Barbarian";2022;102;0

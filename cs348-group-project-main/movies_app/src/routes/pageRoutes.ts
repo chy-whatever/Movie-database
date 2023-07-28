@@ -1,0 +1,16 @@
+export enum PageRoutes {
+    HOME = '/home',
+    MOVIE_LIST = '/movies',
+    MOVIE_INFO = '/movie-info',
+    MOVIE_INFO_ROUTE = '/movie-info/:id',
+    PERSON_INFO = '/person-info',
+    PERSON_INFO_ROUTE = '/person-info/:id',
+    GENRE_LIST = '/genre-list',
+    GENRE_INFO = '/genre',
+    GENRE_INFO_ROUTE = '/genre/:id',
+    SEARCH_RESULT = '/search',
+    LOGIN = '/login',
+    REGISTER = '/register',
+    USER_PROFILE = '/user',
+    USER_PROFILE_ROUTE = '/user/:name',
+}
